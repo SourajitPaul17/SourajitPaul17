@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sourajit Paul
+- 👋 Hi, I’m @Sourajit
 - 👀 I’m interested in 
 - 🌱 I’m currently learning JAVA,C,C++
 - 💞️ I’m looking to collaborate on ...
